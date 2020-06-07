@@ -8,3 +8,4 @@ city\objects.zip - objects
 city\nums.csv - numbers of person and export nodes
 city\toinfect.txt - node to infect in superspreader scenario
 city\etypes.csv - list of layers
+contacts.csv - evolution of weights of layers since 2 Mar
